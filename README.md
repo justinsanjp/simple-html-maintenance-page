@@ -1,4 +1,4 @@
-# A Simple Maintenance WebsiteCancel changes
+# A Simple Maintenance 
 
 en-US:
 Welcome to my small multilingual maintenance website. You can add your own translations by linking them at the dropdown and creating a .html file and copying the content from the index.html! Now translate your language! You can use this template freely, but please give credits, it is not mandatory but I would be happy! If you have suggestions for improvement feel free to create a new ISSUE, the same goes for errors you find!
