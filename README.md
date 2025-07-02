@@ -1,50 +1,46 @@
-# A Simple Maintenance 
+# A Simple Maintenance page
 
-## DEMO: disabeld 
+a multilingual simple maintenance page.
 
-en-US:
-Welcome to my small multilingual maintenance website. You can add your own translations by linking them at the dropdown and creating a .html file and copying the content from the index.html! Now translate your language! You can use this template freely, but please give credits, it is not mandatory but I would be happy! If you have suggestions for improvement feel free to create a new ISSUE, the same goes for errors you find!
+## 🏷️ Badges
 
-I have translated the following languages for you:
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub stars](https://img.shields.io/github/stars/justinsanjp/simple-html-maintenance-page?style=social)
+![GitHub forks](https://img.shields.io/github/forks/justinsanjp/simple-html-maintenance-page?style=social)
 
-- English (US)
-- German (DE)
-- Japanese & Korean
+## ✨ Features
 
-Maybe I will translate more in the future!
+- displaying maintanance with language selection
 
-de-DE:
-Willkommen zu meiner kleinen mehrsprachigen Wartungs Webseite. Du kannst deine eigene übersetzungen hinzufügen, in demm du sie beim dropdown verlinkst und eine .html datei anlegst und den inhalt aus der index.html kopierst! Nun Übersetze deine sprache! Ihr Könnt dieses Template frei verwenden, allerdings bitte ich drum credits zu geben, es ist keine pflicht aber ich würde mich freuen! Wenn du Verbesserungsvorschläge hast kannst du gerne ein neues ISSUE erstellen, das selbe gilt für fehler die du findest!
+## 📦 Installation
 
-Ich habe für dich folgende sprachen übersetzt:
+just download the sourcecode (the .html files) and drop them to your folder.
 
-- English (US)
-- German (DE)
-- Japanese & Korean
+## 🔧 Usage
 
-Vieleicht werde ich noch mehr übersetzen in der zukunft!
+<your ip>:<your port (mostly 80 or 443)/<instalation path>
 
-ja-JP:
-私の小さな多言語メンテナンスサイトへようこそ。ドロップダウンでリンクして.htmlファイルを作成し、index.htmlから内容をコピーすれば、独自の翻訳を追加することができます さあ、あなたの言語を翻訳してください このテンプレートは無料で使用できますが、クレジットを表示してください。もし、改善すべき点があれば、遠慮なく新しいISSUEを作成してください。
+## 🤝 Contributing
 
-以下の言語を翻訳したことがあります。
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-- 英語（米国）
-- ドイツ語 (DE)
-- 日本語 & 韓国語
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-今後、もっと翻訳するかもしれませんね
+## 📄 License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-kr-KR:
+## 👤 Author
 
+**justinsanjp**
 
-저의 작은 다국어 유지보수 웹사이트에 오신 것을 환영합니다. 드롭다운에서 번역을 연결하고 .html 파일을 만들고 index.html에서 내용을 복사하여 자신의 번역을 추가할 수 있습니다! 이제 당신의 언어를 번역하세요! 이 템플릿은 자유롭게 사용하셔도 되지만, 드럼크레딧을 부탁드립니다. 필수는 아니지만 다행입니다! 개선을 위한 제안이 있는 경우 새로운 문제를 생성할 수 있습니다. 발견한 오류에도 동일하게 적용됩니다!
+- GitHub: [@justinsanjp](https://github.com/justinsanjp)
 
-나는 당신을 위해 다음 언어를 번역했습니다:
+## ⭐ Show your support
 
-- 영어(미국)
-- 독일어(DE)
-- 일본어 및 한국어
+Give a ⭐️ if this project helped you!
 
-아마 앞으로 더 많이 번역할 것 같아요!
