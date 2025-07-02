@@ -18,7 +18,7 @@ just download the sourcecode (the .html files) and drop them to your folder.
 
 ## 🔧 Usage
 
-<your ip>:<your port (mostly 80 or 443)/<instalation path>
+<yourdomain>/<instalation path>
 
 ## 🤝 Contributing
 
